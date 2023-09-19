@@ -5,3 +5,6 @@ I plan to grow this into something bigger, but for now it's a minimal chess impl
 - Castling
 - En Passant
 - Pawn Promotion
+
+### Known issue:
+Pawns aren't counted for checks and can capture the king for some reason
